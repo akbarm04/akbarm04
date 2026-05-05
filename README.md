@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarm04&label=Profile%20views&color=0e75b6&style=flat" alt="akbarm04" /> </p>
 
-- 🏫 I am currently studying at **Universitas Pendidikan Indonesia*
+- 🏫 I am currently studying at **Universitas Pendidikan Indonesia**
 
 - 🌱 I’m currently learning **Programming-Language**
 
